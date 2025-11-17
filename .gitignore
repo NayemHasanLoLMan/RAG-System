@@ -1,2 +1,11 @@
+# Python
 venv/
+.venv/
 .env
+__pycache__/
+*.pyc
+
+# Generated data
+*.index
+*.pkl
+*.json
